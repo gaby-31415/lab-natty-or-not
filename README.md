@@ -24,7 +24,7 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ## 📒 Descrição
 A evolução do aprendizado de máquina é marcada por um ciclo contínuo de inovação, desafios e novos paradigmas, impulsionados pela interação entre teoria, tecnologia e necessidades do mundo real.
-Este projeto tem o objetivo de mostrar a evolução do aprendizado de máquina na última década e quais as possibilidades para o futuro, para isso utilizamos um vídeo explicativo gerado pela plataforma invideo AI e um e-book produzido com
+Este projeto tem o objetivo de mostrar a evolução do aprendizado de máquina na última década e quais as possibilidades para o futuro, para isso utilizamos um vídeo explicativo gerado pela plataforma invideo AI e um e-book produzido com o ChatGPT e Leonardo AI
 
 ## 🤖 Tecnologias Utilizadas
 https://chatgpt.com/
