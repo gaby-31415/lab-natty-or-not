@@ -20,19 +20,27 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Evolução do Aprendizado de Máquina na Última Década: uma breve história.
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+A evolução do aprendizado de máquina é marcada por um ciclo contínuo de inovação, desafios e novos paradigmas, impulsionados pela interação entre teoria, tecnologia e necessidades do mundo real.
+Este projeto tem o objetivo de mostrar a evolução do aprendizado de máquina na última década e quais as possibilidades para o futuro, para isso utilizamos um vídeo explicativo gerado pela plataforma invideo AI e um e-book produzido com
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+https://chatgpt.com/
+https://ai.invideo.io/
+
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Video:
+> Enviado instruções para a IA de tempo de vídeo, script, estética e público alvo.
+Após a geração do vídeo, foi solicitado a tradução para o português brasileiro.
+
+E-book:
+
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://ai.invideo.io/watch/6AcaxIma_iW
 
 ## 💭 Reflexão (Opcional)
 Comente sobre o desafio de criar algo 'natty' com IA.
@@ -43,9 +51,3 @@ Comente sobre o desafio de criar algo 'natty' com IA.
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
